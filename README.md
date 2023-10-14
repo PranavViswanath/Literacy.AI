@@ -1,3 +1,9 @@
+Welcome to the future of literacy education! For students and educators around the world, this tool presents the first step in making education truly accessible - individualized AI tutoring.
+
+This app allows the user to upload text in any language they wish, and with the power of facial and speech AI recognition, the user receives an accuracy score with clear feedback to improve on pronounciation, helping the user fluently master any piece of literature over time. Its individualized, low infrastructure, and high scalability features make it the perfect tool for any and all classroom environments!
+
+This project was created as a submission to the Education Track for HackGT X, Georgia Tech's largest hackathon.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
